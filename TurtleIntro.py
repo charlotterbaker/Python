@@ -1,0 +1,21 @@
+#Charlotte Baker
+#Introduction to Turtle
+import turtle
+turtle_window=turtle.Screen()
+turtle_window.bgcolor('cyan')
+charlotte=turtle.Turtle()
+charlotte.shape('turtle')
+charlotte.color('pink')
+charlotte.width(5)
+charlotte.forward(100)
+charlotte.right(60)
+charlotte.forward(100)
+charlotte.right(60)
+charlotte.forward(100)
+charlotte.right(60)
+charlotte.forward(100)
+charlotte.right(60)
+charlotte.forward(100)
+charlotte.right(60)
+charlotte.forward(100)
+charlotte.right(60)
